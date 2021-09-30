@@ -7,16 +7,27 @@ For the study of Exploratory Data Analysis, I am using the life expectancy datas
 Datatype of the dataset
 
 List of all the unique countries in our dataset
+
 Statistical analysis of numeric data
+
 Showing the number of missing values in each column
+
 Based on the missing values, dropping out the rows wich has missing values
+
 Dropping out the unwanted columns
+
 Renaming the columns
+
 Mean
+
 Boxplot
+
 Finding out the correlation among all the columns
+
 Plotting the graph showing correlation among all the columns
+
 Histograms showing numerical values in each column
+
 Scatter plot showing difference between different columns
 
 ### Conclusion
