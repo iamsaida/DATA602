@@ -5,6 +5,7 @@ For the study of Exploratory Data Analysis, I am using the life expectancy datas
 
 ### Operations performed to analyse data
 Datatype of the dataset
+
 List of all the unique countries in our dataset
 Statistical analysis of numeric data
 Showing the number of missing values in each column
