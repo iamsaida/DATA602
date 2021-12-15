@@ -53,7 +53,9 @@ Permit  : Precision (0.88) , Recall ( 0.42), F1 score (0.56)
 No permit : Precision (0.77), Recall (0.96), F1 score (0.86)
 
 Validation score: 77.23%, Test score: 77.04% 
-Decision trees:  Validation score: 87.61%  Test score: 87.96%
+
+Decision tree Classifier:
+Validation score: 87.61%  Test score: 87.96%
 
 
 ## Conclusion
