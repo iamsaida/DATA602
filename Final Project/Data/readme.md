@@ -27,7 +27,7 @@ Plotting the value cpunts of the target variable
 A bar plot showing the Plan Checks and No plan checks of target variable
 
 
-##Data Cleaning and Modeling
+## Data Cleaning and Modeling
 
 Creating dummies for the target variable
 Displaying the dataset after replying target variable with dummies¶
